@@ -32,19 +32,19 @@ Scripts to help you enter the answer for CAP-PT (Proficiency Testing)
     * the answer file (tsv format)
     
     <br>
-    [![basic](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/CAP-PT_parse2.png)](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/CAP-PT_parse2.png)
+    [![the answer file](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/CAP-PT_parse2.png)](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/CAP-PT_parse2.png)
     <br>
     
     * IGV snapshot files: 
     
     <br>
-    [![basic](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/9_2_29416572_29416573_h2000.png)](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/9_2_29416572_29416573_h2000.png)
+    [![snapshot image](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/9_2_29416572_29416573_h2000.png)](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/9_2_29416572_29416573_h2000.png)
     <br>
     
   * demo play
   
   <br>
-  [![basic](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/cap-pt_parsing.gif)](https://github.com/hubert-bioinformatics/CAP-PT/blob/master/README_images/cap-pt_parsing.gif)
+  [![domo play](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/cap-pt_parsing.gif)](https://github.com/hubert-bioinformatics/CAP-PT/blob/main/README_images/cap-pt_parsing.gif)
   <br>
 
 ## <a name="contributing">Contributing</a>
