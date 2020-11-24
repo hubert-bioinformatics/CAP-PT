@@ -18,10 +18,10 @@ Scripts to help you enter the answer for CAP-PT (Proficiency Testing)
 
 * Basic
   * command
-    python cap_vcf_parsing_v2.py /
-      -v [snpeff annotated vcf] /
-      -c [CAP-PT excel file] /
-      -r [bam file] /
+    * python cap_vcf_parsing_v2.py \
+      -v [snpeff annotated vcf] \
+      -c [CAP-PT excel file] \
+      -r [bam file] \
       -b [target region bed file]
   * input
     * snpeff annotated vcf: a vcf file annotated with snpeff is required for matching a transcript id.
